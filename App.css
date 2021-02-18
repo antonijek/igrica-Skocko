@@ -1,0 +1,25 @@
+
+.inlineblok{
+  display: inline-block;
+  top:20px
+}
+.inlineblok1{
+  display: inline-block;
+  }
+
+.razmak{
+  margin-top: 10px;
+}
+.razmak1{
+  position: relative;
+  top: -40px;
+}
+.jedan{
+  margin: 5px;
+}
+.inlineblok2{
+  display: inline-block;
+  position: relative;
+  top: -230px;
+  right: -60px;
+  }

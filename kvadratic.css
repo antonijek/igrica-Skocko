@@ -1,0 +1,19 @@
+.kvadrat{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    border: 3px solid black;
+   
+    
+   
+    
+  }
+  .vodoravno{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    border: 3px solid black;
+    display: inline-block;
+    padding: -10px;
+  }
+  
